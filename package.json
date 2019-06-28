@@ -1,8 +1,7 @@
 {
   "name": "s3-upload-example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "s3-upload-example",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +12,14 @@
     "express": "^4.17.1",
     "multer": "^1.3.0",
     "multer-s3": "^2.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byaws/s3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byaws/s3/issues"
+  },
+  "homepage": "https://github.com/byaws/s3#readme"
 }
